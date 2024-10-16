@@ -1,4 +1,4 @@
-(function(){
+/*(function(){
  const titleCuestions =[...document.querySelectorAll('.cuestions_title')];
 // console.log(titleCuestions);
  titleCuestions.forEach(cuestions =>{
@@ -21,4 +21,17 @@
     //me quedé en 1:29:18 rotar la flecha
 
  });
-})(); 
+})(); */
+
+(function(){
+    const titleCuestions =[...document.querySelectorAll('.cuestions_title')];
+   // console.log(titleCuestions);
+    titleCuestions.forEach(cuestions =>{
+       cuestions.addEventListener('click', ()=>{
+        console.log('ahora está imprimiendo or lo menos');
+   
+       }) 
+       //me quedé en 1:29:18 rotar la flecha
+   
+    });
+   })();
