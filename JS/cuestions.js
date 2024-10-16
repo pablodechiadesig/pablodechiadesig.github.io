@@ -22,7 +22,7 @@
 
  });
 })(); */
-
+/*
 (function(){
     const titleCuestions =[...document.querySelectorAll('.cuestions_title')];
    // console.log(titleCuestions);
@@ -34,4 +34,4 @@
        //me quedé en 1:29:18 rotar la flecha
    
     });
-   })();
+   })();*/
