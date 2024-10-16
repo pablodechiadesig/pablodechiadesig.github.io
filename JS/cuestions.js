@@ -5,7 +5,7 @@
     cuestions.addEventListener('click', ()=>{
         let height =0;
         let answer = cuestions.nextElementSibling;
-        //console.log(cuestions.children[2]);
+        console.log('quiero saber si ejecuta pregunta');
         let addPadding = cuestions.parentElement.parentElement;
         addPadding.classList.toggle('cuestions_padding--add');
         cuestions.children[0].classList.toggle('cuestions_arrow--rotate');
