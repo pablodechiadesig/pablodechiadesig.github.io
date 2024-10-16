@@ -1,0 +1,35 @@
+body {
+    color: darkblue;
+    background-color: honeydew;
+    
+
+}
+#seccion1 { 
+    font-size: 45px;
+    text-align: center;
+
+ }   
+ 
+ #seccion2{
+    font-size: 24px;
+    color: darkgreen;
+    text-align: justify;
+    background-color: beige;
+
+ }
+ #seccion3{
+    font-size: 24px;
+    color: aliceblue;
+    text-align: justify;
+    background-color: darkblue;
+    
+ }
+ 
+ .imaElectro{
+    align-items: center;
+    align-self: auto;
+ }
+
+ 
+
+ 
